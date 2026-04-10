@@ -39,8 +39,8 @@ This project uses binary logistic regression to predict whether an asteroid is p
 
 ## 📂 Files
 
-* binary_logistic_model.R → model code
-* nasa_binary_logistic_reg  → detailed analysis
+* analysis.R → model code
+* report.pdf  → detailed analysis
 
 ## 👨‍💻 Author
 
